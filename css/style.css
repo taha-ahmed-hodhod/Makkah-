@@ -88,7 +88,7 @@ body{
 .home{
     width: 100%;
     height: 100vh;
-    background-image: url(images/pexels-mutahir-jamil-3609907-11667465.jpg);
+    background-image: url(images\pexels-mutahir-jamil-3609907-11667465.jpg);
     background-position: center;
     position: relative;
     background-size: cover;
