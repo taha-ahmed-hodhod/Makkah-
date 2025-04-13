@@ -540,7 +540,7 @@ body{
 /* ///////////////////////// */
 .clients{
     margin-top: 20px;
-    background-image: url(" ../images/kabba.jpg");
+    background-image: url("../images/kabba.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
